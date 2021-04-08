@@ -24,30 +24,40 @@
        
  Load the csv file and display the column names.
  <br />
+ <br />
  ![Column names](https://github.com/Jomondi/MachineLearningProject/blob/main/Images/Column%20Names.png)
+ <br />
  <br />
  
  Convert the file into a dataframe and print the head/tail results
  <br />
+ <br />
  ![Dataframe Head and Tail](https://github.com/Jomondi/MachineLearningProject/blob/main/Images/Dataframe%20Head_Tail.png)
+ <br />
  <br />
  
  Generate a seaborn countplot for gender
  <br />
+ <br />
  ![Gender Countplot](https://github.com/Jomondi/MachineLearningProject/blob/main/Images/Gender%20Countplot.png)
+ <br />
  <br />
  
  Generate a seaborn countplot for insurance
  <br />
+ <br />
  ![Insurance Countplot](https://github.com/Jomondi/MachineLearningProject/blob/main/Images/Insurance%20Countplot.png)
+ <br />
  <br />
  
  Create a contingency table and print the results
  <br />
+ <br />
  ![Contingency Table](https://github.com/Jomondi/MachineLearningProject/blob/main/Images/Contingency%20Table.png)
+ <br />
  <br />
  
  Create a heatmap of the contingency table
  <br />
- ![Contingency Heatmap](https://github.com/Jomondi/MachineLearningProject/blob/main/Images/Contingecy%20Heatmap.png)
  <br />
+ ![Contingency Heatmap](https://github.com/Jomondi/MachineLearningProject/blob/main/Images/Contingecy%20Heatmap.png)
